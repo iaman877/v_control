@@ -1,1 +1,1 @@
-console.log("hello from UAT1.js");
+console.log("SDK attached");
